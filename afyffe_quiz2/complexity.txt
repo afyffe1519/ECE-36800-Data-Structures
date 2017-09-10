@@ -1,0 +1,2 @@
+Time complexity: O(n) because it goes through each node.
+Space complexity: O(n) because it creates extra space for each new node.
